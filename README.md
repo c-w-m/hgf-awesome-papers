@@ -1,4 +1,4 @@
-# Awesome NLP Paper Discussions
+# [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers)
 
 The Hugging Face team believes that we can reach our goals in NLP by building powerful open source tools and by conducting impactful research. Our team has begun holding regular internal discussions about awesome papers and research areas in NLP. In the spirit of open science, we've decided to share these discussion materials with the community.
 
